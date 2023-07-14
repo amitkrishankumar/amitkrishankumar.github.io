@@ -1,4 +1,4 @@
-# Amit Krishan Kumar
+#Dr. Amit Krishan Kumar
 <!DOCTYPE html>
 <html>
   <head>
@@ -10,7 +10,6 @@
   </head>
   
 <body>
-            <h1>Dr. Amit Krishan Kumars</h1>
             <h2> Introduction </h2>
             <b>Research</b>
   
