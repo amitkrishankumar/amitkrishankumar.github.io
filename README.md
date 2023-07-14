@@ -1,4 +1,4 @@
-<html>
+<html<head>
  <img src="Profile1.jpg"  
 <meta name="description" content="Higher Dimension Research…">
     <meta name="referrer" content="origin-when-cross-origin">
