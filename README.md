@@ -1,4 +1,3 @@
-#Dr. Amit Krishan Kumar
 <!DOCTYPE html>
 <html>
   <head>
@@ -10,6 +9,7 @@
   </head>
   
 <body>
+  <h1> Dr. Amit Krishan Kumar </h1>h1>
             <h2> Introduction </h2>
             <b>Research</b>
   
