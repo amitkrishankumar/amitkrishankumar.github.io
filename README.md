@@ -1,5 +1,3 @@
-#
-<!DOCTYPE html>
 <html>
   <head>
 <meta name="description" content="Higher Dimension Research…">
@@ -17,7 +15,7 @@
 tanglement, provides answers to many questions especially when considering immeasurable quantities. The quantum-inspired algorithm goes deeper and applies the fantastic laws of the quantum world to data science where it links the objective truth with the subjective and the dimensional truth for different frames of reference. 
     <h2> </h2>
             <b>Research Interests</b>
-  <p> Specific research interest include </em></p>
+  <p> Specific research interest include </p>
 <a href = "about.html"> Research Profile of Amit Krishan Kumar </a>  
 </body>
   
