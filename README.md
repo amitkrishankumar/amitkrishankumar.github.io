@@ -13,7 +13,7 @@
   <h1> Dr. Amit Krishan Kumar </h1>
             <h2> Research </h2>
             <div style="display:inline-block;vertical-align:right;">
-    <img src="motivation.jpg"width="20px" alt="img"/>
+    <img src="motivation.jpg"width="20px" alt="img">
 </div>
 <div style="display:inline-block;">
     <p> <b>
