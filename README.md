@@ -12,7 +12,7 @@
   <h1> Dr. Amit Krishan Kumar </h1>
             <h2> Research </h2>
             <b>Motivation and Theories</b>
-  <p> Intriguing research which motivate Amit Krishan Kumar are <b> quantum theories, higher dimensional research, health care, and math </b><strong> <em> Served up by our friendly team, every day of the week, our mouthwatering Sunday roast and weekday carvery are sure to be a hit with all the family. </em></p> This dissertation inspires and motivates many things. Firstly it encourages research on
+  <p> Intriguing research which motivate Amit Krishan Kumar are <b> quantum theories, higher dimensional research, health care, and math </b> <em> Served up by our friendly team, every day of the week, our mouthwatering Sunday roast and weekday carvery are sure to be a hit with all the family. </em></p> This dissertation inspires and motivates many things. Firstly it encourages research on
 ancient yogic breathing techniques like pranayama which is one of the key motivation for
 studying respiratory systems. Furthermore it is anticipated that carefully guided ancient yo-
 gic breathing techniques could provide ground breaking results and therapy for incurable
