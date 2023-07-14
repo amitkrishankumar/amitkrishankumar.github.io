@@ -1,4 +1,4 @@
-# Amitkrishankumar
+# Amit Krishan Kumar
 <!DOCTYPE html>
 <html>
   <head>
@@ -11,6 +11,8 @@
    
   <a href = "about.html"> Research Profile of Amit Krishan Kumar </a>  
             <h1>Dr. Amit Krishan Kumars research include</h1>
+            <h2> Hi </h2>
+            <b>Research</b>
 </body>
   
 </html>
