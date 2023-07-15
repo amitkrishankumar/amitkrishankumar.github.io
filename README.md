@@ -12,11 +12,6 @@
   <h1> Dr. Amit Krishan Kumar </h1>
             <h2> Research </h2>       
 
-<style>
-table, th, td {
-  border:none;
-}
-</style>
 <body>  
 <table style="width:100%">
   <tr>
