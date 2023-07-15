@@ -13,7 +13,7 @@
             <h2> Research </h2>       
 
 <body>  
-<table style="width:100%">
+<table style="border-collapse: collapse; border: none;">
   <tr>
     <td> <b>Motivation and Inspiration </b></td>
     <td> <img src="thumbnails/motivation.jpg" width="50"> </td>
