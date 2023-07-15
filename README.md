@@ -16,7 +16,7 @@
  
 <table>
     <tr>
-    <td> <b>Motivation and Inspiration </b> <img src="thumbnails/motivation.jpg" width="50"> </td>
+    <td> <b>Motivation and Inspiration </b> 
     <td> <img src="thumbnails/motivation.jpg" width="50"> </td>
  </tr>
  </table>  
