@@ -13,7 +13,7 @@
             <h2> Research </h2>       
 
 <body>  
-<table style="border-collapse: collapse; border: none;">
+<table "border: none;">
   <tr style="border: none;">
   </tr>
   <tr>
