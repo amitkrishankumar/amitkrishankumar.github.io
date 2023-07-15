@@ -13,7 +13,8 @@
             <h2> Research </h2>       
 
 <body>
-  {
+ 
+<table   {
   components: {
     Table: {
       parts: ['th', 'td'],
@@ -27,8 +28,7 @@
       },
     },
   },
-}
-<table >
+}>
     <tr>
     <td> <b>Motivation and Inspiration </b></td>
     <td> <img src="thumbnails/motivation.jpg" width="50"> </td>
