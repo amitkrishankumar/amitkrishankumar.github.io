@@ -23,7 +23,7 @@
           borderColor: 'blue.300',
         },
         td: {
-          borderColor: 'gray.300',
+          borderColor: 'blue.300',
         },
       },
     },
