@@ -20,10 +20,10 @@
       parts: ['th', 'td'],
       baseStyle: {
         th: {
-          borderColor: 'blue.300',
+          borderColor: "blue.300",
         },
         td: {
-          borderColor: 'blue.300',
+          borderColor: "blue.300",
         },
       },
     },
