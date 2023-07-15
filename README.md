@@ -21,11 +21,9 @@ table, th, td {
 <table style="width:100%">
   <tr>
     <td> <b>Motivation and Inspiration </b></td>
- </tr>
-  <tr>
     <td> <img src="thumbnails/motivation.jpg" width="50"> </td>
-  </tr>
-</table>  
+ </tr>
+ </table>  
 <div style="display:inline-block;">
     <b>Motivation and Inspiration </b>
   <img src="thumbnails/motivation.jpg" width="50"> </div>
