@@ -14,23 +14,9 @@
 
 <body>
  
-<table   {
-  components: {
-    Table: {
-      parts: ['th', 'td'],
-      baseStyle: {
-        th: {
-          borderColor: "blue.300",
-        },
-        td: {
-          borderColor: "blue.300",
-        },
-      },
-    },
-  },
-}>
+<table>
     <tr>
-    <td> <b>Motivation and Inspiration </b></td>
+    <td> <b>Motivation and Inspiration </b> <img src="thumbnails/motivation.jpg" width="50"> </td>
     <td> <img src="thumbnails/motivation.jpg" width="50"> </td>
  </tr>
  </table>  
