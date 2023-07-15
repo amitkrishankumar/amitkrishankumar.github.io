@@ -13,10 +13,8 @@
             <h2> Research </h2>       
 
 <body>  
-<table "border: none;">
-  <tr style="border: none;">
-  </tr>
-  <tr>
+<table "border:1px solid black:">
+    <tr>
     <td> <b>Motivation and Inspiration </b></td>
     <td> <img src="thumbnails/motivation.jpg" width="50"> </td>
  </tr>
