@@ -1,6 +1,6 @@
 <html>
  <img src="Profile1.jpg"  
-![alt text](https://github.com/amitkrishankumar/amitkrishankumar.github.io/blob/main/Profile1.jpge)
+![alt text](https://github.com/amitkrishankumar/amitkrishankumar.github.io/blob/main/Profile1.jpg)
   <head>
 <meta name="description" content="Higher Dimension Research…">
     <meta name="referrer" content="origin-when-cross-origin">
