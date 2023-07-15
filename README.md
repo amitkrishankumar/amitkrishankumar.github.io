@@ -23,7 +23,12 @@
              
   <p> Intriguing research which inspires and motivates Amit Krishan Kumar are <b> quantum inpired approaches and theories, higher dimensional research, fascinating healing capabilities of human body, and mathematical models </b>. Amit Krishan Kumar believes that it is possible to find solution to the measurement problem, mathematically model the etheric body, create the desired health, and reconfigure the air and water frequency for optimal health. <em> ‘As long as you are breathing, you can bring about the desired change’. Moreover, the fact of the statement, ‘we breathe in as soon as we are born and breathe out just before death, in between we manage the breathing’, motivates deep research on the respiratory system.  </em> </p>  
     <h2> </h2>
-            <b>Research Interests</b>
+           <table>
+    <tr>
+    <td> <b>Research Interests</b> 
+    <td> <img src="thumbnails/interests.jpg" width="50"> </td>
+ </tr>
+ </table>  
   <p> Specific research interest include pattern recognition, cymatics, dream psychology, electrical-electronics engerring and design, entangleent of quantum multimodal states, laws of higher dimensional universe, mathematical models of human body system, disease identification, and biochemical systems theory, quantum theory including measurement problem, <em>N</em>-Body problem, and imaginary order calculus, fractional calculus, calculus of variation and game theory for control science engineering, optimisation, clustering, and classification, application of AI based optimal solutions of puzzles to pattern recognition namely supervised and unsupervised learning, computer vision for road safety, health care, and environment monitoring, machine learning, signal processing, numerical analysis applied to respiration, water purification, quantum gravity, air purification, consciousness modelling, etheric body models, and cymatics of <em>N</em>-dimensional sounds, risk analysis, clinical decision support system (CDSS), human systems model, time-symmetry, and bimodal systems. </p>
 
    <h2> </h2>
