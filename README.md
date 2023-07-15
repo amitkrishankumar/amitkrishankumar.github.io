@@ -13,7 +13,10 @@
             <h2> Research </h2>       
 
 <body>  
-<table "border:1px solid white:">
+<table {
+  border-collapse: collapse;
+  width: 100%;
+}>
     <tr>
     <td> <b>Motivation and Inspiration </b></td>
     <td> <img src="thumbnails/motivation.jpg" width="50"> </td>
