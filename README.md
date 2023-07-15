@@ -11,7 +11,21 @@
 <body>
   <h1> Dr. Amit Krishan Kumar </h1>
             <h2> Research </h2>       
-    
+
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+<body>  
+<table style="width:100%">
+  <tr>
+    <td> <b>Motivation and Inspiration </b></td>
+ </tr>
+  <tr>
+    <td> <img src="thumbnails/motivation.jpg" width="50"> </td>
+  </tr>
+</table>  
 <div style="display:inline-block;">
     <b>Motivation and Inspiration </b>
   <img src="thumbnails/motivation.jpg" width="50"> </div>
