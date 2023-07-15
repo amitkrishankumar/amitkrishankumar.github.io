@@ -15,9 +15,7 @@
 <body>  
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
-            <td style="border: none;">
-            </td>
-        </tr>
+  </tr>
   <tr>
     <td> <b>Motivation and Inspiration </b></td>
     <td> <img src="thumbnails/motivation.jpg" width="50"> </td>
