@@ -12,7 +12,22 @@
   <h1> Dr. Amit Krishan Kumar </h1>
             <h2> Research </h2>       
 
-<body>  
+<body>
+  {
+  components: {
+    Table: {
+      parts: ['th', 'td'],
+      baseStyle: {
+        th: {
+          borderColor: 'blue.300',
+        },
+        td: {
+          borderColor: 'gray.300',
+        },
+      },
+    },
+  },
+}
 <table >
     <tr>
     <td> <b>Motivation and Inspiration </b></td>
