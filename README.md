@@ -1,5 +1,7 @@
 <html>
-<a href = ""> Publications </a> &nbsp;&nbsp;&nbsp;&emsp; <a href = ""> Publications </a>
+<h1> Dr. Amit Krishan Kumar </h1>
+
+  <a href = ""> <h2> Publications  </h2></a> &nbsp;&nbsp;&nbsp;&emsp; <a href = ""> Publications </a>
   
   <img src="Profile1.jpg"> 
   <a href = "https://scholar.google.com/citations?user=h-KG0T0AAAAJ&hl=en"> Google Scholar </a>   <a href = "https://orcid.org/0000-0002-0173-2081"> ORCID </a>   
@@ -12,7 +14,7 @@
   </head>
   
 <body>
-  <h1> Dr. Amit Krishan Kumar </h1>
+  
             <h2> Research </h2>       
 
 <body>
