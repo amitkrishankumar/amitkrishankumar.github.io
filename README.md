@@ -1,7 +1,7 @@
 <html>
 <h1> Dr. Amit Krishan Kumar </h1>
 
-  <a href = ""> Research Profile</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href = "publication.md"> Publications </a> &nbsp;&nbsp;&nbsp;&nbsp;  <a href = "https://scholar.google.com/citations?user=h-KG0T0AAAAJ&hl=en"> Google Scholar </a> &nbsp;&nbsp;&nbsp;&emsp; <a href = "https://orcid.org/0000-0002-0173-2081"> ORCID </a>   
+  <a href = ""> Research Profile</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href = "publication"> Publications </a> &nbsp;&nbsp;&nbsp;&nbsp;  <a href = "https://scholar.google.com/citations?user=h-KG0T0AAAAJ&hl=en"> Google Scholar </a> &nbsp;&nbsp;&nbsp;&emsp; <a href = "https://orcid.org/0000-0002-0173-2081"> ORCID </a>   
   
   <img src="Profile1.jpg"> 
   
