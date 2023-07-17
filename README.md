@@ -1,4 +1,5 @@
 <html>
+  <a href = "https://scholar.google.com/citations?user=h-KG0T0AAAAJ&hl=en"> Research Profile of Amit Krishan Kumar </a> 
   <img src="Profile1.jpg">
   <head>
 <meta name="description" content="Higher Dimension Research…">
@@ -32,6 +33,6 @@
             <b>Research Questions and Theories</b>
   <p> The research questions are; 1) does disease enter a subtle body like vital-breath body before showing symptoms to the physical body; 2) can healing of the etheric elements heal the incurable; how does the breathing patterns, breathing techniques, respiratory disease, and respiratory flow help in modelling the etheric body.  Coronavirus disease targets the lungs. Quantum-inspired approach to bimodal data especially the very unique quantum entanglement, provides answers to many questions especially when considering immeasurable quantities. The quantum-inspired algorithm goes deeper and applies the fantastic laws of the quantum world to data science where it links the objective truth with the subjective and the dimensional truth for different frames of reference. </p>
 <a href = "about.html"> Research Profile of Amit Krishan Kumar </a>  
-</body>
+<body>
   
-</html>
+<html>
