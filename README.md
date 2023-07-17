@@ -1,7 +1,7 @@
 <html>
 <h1> Dr. Amit Krishan Kumar </h1>
 
-  <a href = "amitkrishankumar.github.io"> Research Profile</a> &nbsp;&nbsp;&nbsp;&emsp; <a href = ""> Publications </a>
+  <a href = ""> Research Profile</a> &nbsp;&nbsp;&nbsp;&emsp; <a href = ""> Publications </a>
   
   <img src="Profile1.jpg"> 
   
