@@ -30,7 +30,10 @@
   <p> Specific research interest include pattern recognition, cymatics, dream psychology, electrical-electronics engerring and design, entangleent of quantum multimodal states, laws of higher dimensional universe, mathematical models of human body system, disease identification, and biochemical systems theory, quantum theory including measurement problem, <em>N</em>-Body problem, and imaginary order calculus, fractional calculus, calculus of variation and game theory for control science engineering, optimisation, clustering, and classification, application of AI based optimal solutions of puzzles to pattern recognition namely supervised and unsupervised learning, computer vision for road safety, health care, and environment monitoring, machine learning, signal processing, numerical analysis applied to respiration, water purification, quantum gravity, air purification, consciousness modelling, etheric body models, and cymatics of <em>N</em>-dimensional sounds, risk analysis, clinical decision support system (CDSS), human systems model, time-symmetry, and bimodal systems. </p>
 
    <h2> </h2>
-            <b>Research Questions and Theories</b>
+   <table>
+           <td> <b>Research Questions and Theories</b>
+              <td> <img src="thumbnails/interests.jpg" width="50"> </td>
+ <table>
   <p> The research questions are; 1) does disease enter a subtle body like vital-breath body before showing symptoms to the physical body; 2) can healing of the etheric elements heal the incurable; how does the breathing patterns, breathing techniques, respiratory disease, and respiratory flow help in modelling the etheric body.  Coronavirus disease targets the lungs. Quantum-inspired approach to bimodal data especially the very unique quantum entanglement, provides answers to many questions especially when considering immeasurable quantities. The quantum-inspired algorithm goes deeper and applies the fantastic laws of the quantum world to data science where it links the objective truth with the subjective and the dimensional truth for different frames of reference. </p>
 <a href = "about.html"> Research Profile of Amit Krishan Kumar </a>  
 <body>
