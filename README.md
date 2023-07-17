@@ -22,12 +22,12 @@
   background-color: #ddd;
 }
 
-/* Create an active/current tablink class */
+
 .tab button.active {
   background-color: #ccc;
 }
 
-/* Style the tab content */
+
 .tabcontent {
   display: none;
   padding: 6px 12px;
@@ -35,7 +35,7 @@
   animation: fadeEffect 1s;
 }
 
-/* Fade in tabs */
+
 @-webkit-keyframes fadeEffect {
   from {opacity: 0;}
   to {opacity: 1;}
@@ -50,12 +50,12 @@
   <button class="tablinks" onclick="openCity(event, 'London')">London</button>
   <button class="tablinks" onclick="openCity(event, 'Paris')">Paris</button>
   <button class="tablinks" onclick="openCity(event, 'Tokyo')">Tokyo</button>
-</div>
+<div>
 
 <div id="London" class="tabcontent">
   <h3>London</h3>
   <p>London is the capital city of England.</p>
-</div>
+<div>
 
 <div id="Paris" class="tabcontent">
   <h3>Paris</h3>
