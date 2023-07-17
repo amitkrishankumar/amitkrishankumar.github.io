@@ -1,14 +1,11 @@
 <html>
-body {font-family: Arial;}
 
-/* Style the tab */
 .tab {
   overflow: hidden;
   border: 1px solid #ccc;
   background-color: #f1f1f1;
 }
 
-/* Style the buttons inside the tab */
 .tab button {
   background-color: inherit;
   float: left;
@@ -20,7 +17,7 @@ body {font-family: Arial;}
   font-size: 17px;
 }
 
-/* Change background color of buttons on hover */
+
 .tab button:hover {
   background-color: #ddd;
 }
