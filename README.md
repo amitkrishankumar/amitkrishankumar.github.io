@@ -11,7 +11,7 @@
 <meta name="author" content="Amit Krishan Kumar">
     <meta charset="UTF-8">
    <meta name="description" content="‪Beijing Institute of Technology‬ - ‪‪Cited by 53‬‬ - ‪Computer Vision‬ - ‪Machine Learning‬ - ‪Quantum Entanglement‬ - ‪Multimodal analysis‬ - ‪Respiratory system‬"><meta property="og:title" content="Amit Krishan Kumar"><meta property="og:image" content="https://scholar.googleusercontent.com/citations?view_op=medium_photo&amp;user=h-KG0T0AAAAJ&amp;citpid=1">
-  <head>
+  </head>
   
 
 <div> 
