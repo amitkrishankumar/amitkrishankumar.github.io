@@ -10,7 +10,7 @@
     <meta name="referrer" content="origin-when-cross-origin">
 <meta name="author" content="Amit Krishan Kumar">
     <meta charset="UTF-8">
-    </head>
+    <head>
   
 
 <div> 
