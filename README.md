@@ -5,7 +5,7 @@
     <meta name="referrer" content="origin-when-cross-origin">
 <meta name="author" content="Amit Krishan Kumar">
     <meta charset="UTF-8">
-    <head>
+    </head>
     
 <h1> Dr. Amit Krishan Kumar </h1>
 
