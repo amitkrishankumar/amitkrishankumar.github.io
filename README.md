@@ -1,2 +1,2 @@
-./profile.html
+gh repo clone amitkrishankumar/academicpages.github.io
 
