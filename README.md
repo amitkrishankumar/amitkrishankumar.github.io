@@ -1,1 +1,1 @@
-amitkrishankumar.github.io/profile.html
+amitkrishankumar.github.io/blob/main/profile.html
