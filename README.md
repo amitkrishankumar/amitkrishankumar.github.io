@@ -1,1 +1,1 @@
-<html> <a href = "profile.html"></a></html>
+<html> <a href = "https://amitkrishankumar.github.io/profile.html"></a></html>
