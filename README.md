@@ -1,1 +1,1 @@
-/profile.html
+amitkrishankumar.github.io/profile.html
