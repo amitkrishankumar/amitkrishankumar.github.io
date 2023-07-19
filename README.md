@@ -1,1 +1,1 @@
-../profile.html
+/main/profile.html
