@@ -20,7 +20,7 @@
 <table>
 <div>
              
-  <p> Intriguing research that inspires and motivates Amit Krishan Kumar are <b> quantum inpired approaches and theories, higher dimensional research, fascinating healing capabilities of human body, and mathematical models </b>. Amit Krishan Kumar believes that it is possible to find solution to the measurement problem, mathematically model the etheric body, create the desired health, and reconfigure the air and water frequency for optimal health. <em> ‘As long as you are breathing, you can bring about the desired change’. Moreover, the fact of the statement, ‘we breathe in as soon as we are born and breathe out just before death, in between we manage the breathing’, motivates deep research on the respiratory system.  </em> </p>  
+  <p> Intriguing research that inspires and motivates Dr. Amit Krishan Kumar are <b> quantum inpired approaches and theories, higher dimensional research, fascinating healing capabilities of human body, and mathematical models </b>. Amit Krishan Kumar believes that it is possible to find solution to the measurement problem, mathematically model the etheric body, create the desired health, and reconfigure the air and water frequency for optimal health. <em> ‘As long as you are breathing, you can bring about the desired change’. Moreover, the fact of the statement, ‘we breathe in as soon as we are born and breathe out just before death, in between we manage the breathing’, motivates deep research on the respiratory system.  </em> </p>  
     <h2> </h2>
     <table>
             <td> <b>Research Interests</b> 
