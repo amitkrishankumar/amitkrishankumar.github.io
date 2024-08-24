@@ -49,7 +49,13 @@
            <td> <b>Research Questions and Theories</b>
               <td> <img src="thumbnails/question.jpg" width="50"> </td>
  <table>
-  <p> The research questions related to his work are; <li> Does disease enter a subtle body like the vital-breath body before showing symptoms in the physical body;</li> <li> Will healing of the etheric elements heal the incurable;</li> <li>How the breathing patterns, breathing techniques, respiratory disease, and respiratory flow help in modelling the etheric body;</li> <li>Is the curvature of space-time isochronous for entangled particles.</li> Quantum-inspired approach to bimodal data especially the very unique quantum entanglement, provides answers to many questions especially when considering immeasurable quantities. The quantum-inspired algorithm goes deeper and applies the fantastic laws of the quantum world to data science where it links the objective truth with the subjective and the dimensional truth for different frames of reference. Some of his theories are; the switch of dimensions by entangled particles, the infinite womb theory, the existence of super imaginary numbers, existence of water and air purification frequency, and relative truth governed by subject-object communication leading to wave-particle collapse.</p>
+<p align="justify"> The research questions are; 1) does disease enter a subtle body like vital-breath body before showing symptoms to the physical body; 2) can healing of the etheric elements 
+    heal the incurable; how does the breathing patterns, breathing techniques, respiratory disease, and respiratory flow help in modelling the etheric body.  Many disease targets the lungs, 
+  therefore, it is essential to have better understanding of the respiratory dynamics and disease progression via mathematical and numerical models. Quantum-inspired approach to bimodal data 
+  especially the very unique quantum entanglement, provides answers to many questions especially when considering immeasurable quantities.
+    The quantum-inspired algorithm goes deeper and applies the fantastic laws of the quantum world to data science where it links the objective truth with the subjective and the
+    dimensional truth for different frames of reference. </p>
+
 
 <body>
   
