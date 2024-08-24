@@ -23,7 +23,7 @@
   <p> Dr. Amit Krishan Kumar's research interests are rooted in the fascinating intersections of <b> quantum inpired approaches and theories, higher dimensional research, 
   fascinating healing capabilities of human body, and mathematical models </b>. He is deeply motivated by the quest to develop mathematical models that offer a deeper understanding
   of quantum phenomena, human physiology, and the nature of consciousness. Dr. Kumar envisions a future where we can solve the measurement problem, mathematically represent the etheric body, 
-  engineer optimal health, and reconfigure the frequencies of air and water to enhance well-being. He passionately believes, <em> ‘As long as you are breathing, you can bring about the desired change’</em>. <p>
+  engineer optimal health, and reconfigure the frequencies of air and water to enhance well-being. He passionately believes, <em> "As long as you are breathing, you can bring about the desired change"</em>. <p>
   </p> The profound observation that  <em>"we breathe in as soon as we are born and breathe out just before death, with all our breathing in between a matter of management"</em> fuels his dedication to exploring
   the respiratory system. This deep curiosity drives his exploration of how breath connects to our overall health, consciousness, and the very fabric of reality. Dr. Kumar's work embodies a bold and visionary approach,
   aiming to unravel the mysteries of life and unlock new pathways for healing and transformation. </p>  
